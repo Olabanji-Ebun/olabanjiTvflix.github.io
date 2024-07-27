@@ -14,9 +14,6 @@ Key Features ✨
 
 🎬 Genre-Based Recommendations: Discover movies tailored to your tastes with personalized suggestions.
 
-Live Demo 🌐
-[🎥 Check out the live demo here!](https://olabanji-ebun.github.io/olabanjiTvflix.github.io/)
-
 How to Contribute 🤝
 Contributions are welcome! Found a bug or have an idea for a new feature? Open an issue or submit a pull request.
 
