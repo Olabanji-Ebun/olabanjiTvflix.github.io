@@ -47,7 +47,7 @@ const filterVideos = function(videoList) {
 }
 
 
-fetchDataFromServer(`http://api.themoviedb.org/3/movie/${movieId}?api_key=${api_key}&append_to_response=casts,videos,images,releases`, function(movie){
+fetchDataFromServer(`https://api.themoviedb.org/3/movie/${movieId}?api_key=${api_key}&append_to_response=casts,videos,images,releases`, function(movie){
     
     const {
         backdrop_path,
