@@ -595,7 +595,7 @@ img {height: auto;}
     left: 20px;
     right: 0;
     border-radius: var(--radius-16) 0 0 var(--radius-16);
-    user-select: none;
+    /* user-select: none; */
     padding: 4px 0 4px 4px;
     overflow-x: auto;
   }
